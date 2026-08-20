@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zhuqdn.yoursingles.online/sitemap.xml
